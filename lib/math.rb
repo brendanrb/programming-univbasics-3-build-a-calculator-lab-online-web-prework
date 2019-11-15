@@ -22,9 +22,9 @@ end
 multiplication(4,30)
 
 def modulo(num1, num2)
-
+num1 % num2
 end
-
+modulo()
 def square_root(num)
 
 end
